@@ -20,7 +20,6 @@ Full Stack Software Developer with hands-on experience designing and delivering 
 ---
 
 ## 💫 About Me
-- 🔭 Currently building: **QBuilder (Schema-driven SaaS platform)**
 - ⚙️ Focus: **System Design, Performance Optimization, Real-time Apps**
 - 🌱 Exploring: **Advanced Backend Scaling & Distributed Systems**
 - 📫 Reach me: **deenuramenjes29@gmail.com**
